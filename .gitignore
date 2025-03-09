@@ -1,2 +1,8 @@
+.gitignore
+
 final/CHIMP/
 lmfdb/
+
+20250308.m
+
+*.out
